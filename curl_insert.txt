@@ -1,0 +1,1 @@
+curl -X POST -H 'content-type:application/json' -d '{"personnummer":"195904221327","doktype":"SKADEANMALAN","kundnummer":"FF1889999"}' http://35.228.104.97/document
