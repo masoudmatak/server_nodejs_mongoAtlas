@@ -11,5 +11,5 @@ database=brommasodermalm
 user=brommasodermalm
 passswd=abgosh01
 mongodb+srv://brommasodermalm:abgosht01@clustermmdok-rwvsj.gcp.mongodb.net/test
-const CONNECTION_URL = "mongodb+srv://brommasodermalm:abgosht01@clustermmdok-rwvsj.gcp.mongodb.net/brommasodermalm?retryWrites=true&w=majority";
+const CONNECTION_URL = "xxxxxxxxxxxxxxxxxx?retryWrites=true&w=majority";
 https://cloud.mongodb.com/
